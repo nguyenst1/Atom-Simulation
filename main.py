@@ -1,8 +1,3 @@
-# Author: Tung (Steve) Nguyen
-# Partner: Chris Harris
-# Date: 3/4/2017
-# Computer Science Project 5.2 
-
 import random, math, turtle
 import matplotlib.pyplot as pyplot
 import turtle
